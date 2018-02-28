@@ -20,7 +20,6 @@ class SigninController extends Controller
         $attendee = new Attendee;
         $attendee->event_id = $eventId;//prob not mass assignable
         $attendee->name = ucwords($request->name); //converts the first letters of words to caps
-//        $attendee->lastname = $request->lastname;
         $attendee->role = $request->role;
         $attendee->county = $request->county;
         $attendee->email = $request->email;

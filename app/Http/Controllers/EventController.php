@@ -30,6 +30,6 @@ class EventController extends Controller
         $events->type = $request->type;
         $events->save();
 
-        return redirect('/events/new' );
+        return redirect('/events/' );
     }
 }
