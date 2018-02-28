@@ -1,23 +1,23 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
+
+
+    <h1 class="text-center">FoodConnection Signin</h1>
+
+    <hr>
+
+
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            <div class="panel panel-default">
-                <div class="panel-heading">Dashboard</div>
 
-                <div class="panel-body">
-                    @if (session('status'))
-                        <div class="alert alert-success">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-
-                    You are logged in!
+        <div class="col-md-6 col-md-offset-3">
+                <div class="btn-group btn-group-justified btn-group-lg">
+                    <a href="{{ route('events')}}" class="btn btn-success btn-lg" role="button" >Check-In Guests</a>
+                    <a href="{{ route('admin.events') }}" class="btn btn-success btn-lg" role="button" >Admin</a>
                 </div>
-            </div>
+
         </div>
     </div>
-</div>
+
+
 @endsection
