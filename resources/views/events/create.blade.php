@@ -10,51 +10,33 @@
 
         <div class="col-md-6 col-md-offset-3">
 
+            <form method="POST" action="{{url('/events/new')}}">
+                {!! csrf_field() !!}
+                <div class="form-group">
 
-            {!! Form::open(['url' => 'events/new']) !!}
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Cooking Class (2/16)" required>
+                    </div>
 
-            {!! Form::label('name'); !!}
-            {!! Form::text('name'); !!}
+                    <div class="form-group">
+                        <label for="date">Date</label>
+                        <input type="date" class="form-control" id="date" name="date" placeholder="2017-11-14" required>
+                    </div>
 
-            {!! Form::submit('Click Me!'); !!}
+                    <div class="form-group">
+                        <label for="description">Description</label>
+                        <textarea class="form-control" id="description" rows="3"></textarea>
+                    </div>
 
-            {!! Form::close(); !!}
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="TRUE" id="type">
+                        <label class="form-check-label" for="type">
+                            Is this a First Friday event?
+                        </label>
+                    </div>
 
-            {{--<form class="form-horizontal">--}}
-                {{--<fieldset>--}}
-
-                    {{--<!-- Form Name -->--}}
-
-                    {{--<!-- Text input-->--}}
-                    {{--<div class="form-group">--}}
-                        {{--<label class="col-md-4 control-label" for="textinput">Event Name</label>--}}
-                        {{--<div class="col-md-5">--}}
-                            {{--<input id="textinput" name="textinput" type="text" placeholder="name" class="form-control input-md" required>--}}
-
-                        {{--</div>--}}
-                    {{--</div>--}}
-
-                    {{--<!-- Text input-->--}}
-                    {{--<div class="form-group">--}}
-                        {{--<label class="col-md-4 control-label" for="textinput">Date &amp; Time</label>--}}
-                        {{--<div class="col-md-5">--}}
-                            {{--<input id="textinput" name="textinput" type="date" placeholder="placeholder" class="form-control input-md" required>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-
-                    {{--<!-- Textarea -->--}}
-                    {{--<div class="form-group">--}}
-                        {{--<label class="col-md-4 control-label" for="description">Description</label>--}}
-                        {{--<div class="col-md-4">--}}
-                            {{--<textarea class="form-control" id="description" name="description"></textarea>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-
-                {{--</fieldset>--}}
-            {{--</form>--}}
-
-
-
+                    <button type="submit" class="btn btn-success">Submit New Event</button>
         </div>
 
 

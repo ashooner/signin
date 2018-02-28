@@ -26,7 +26,10 @@ class EventController extends Controller
         $events = new Event;
         $events->name = $request->name;
         $events->date = $request->date;
-        $events->time = $request->time;
+        $events->description = $request->description;
+        $events->type = $request->type;
         $events->save();
+
+        return redirect('/events/new' );
     }
 }

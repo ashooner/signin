@@ -1,18 +1,22 @@
 @extends('layouts.app')
 @section('content')
-    <div class="container">
-        <div class="row">
-            <h1>Sign In</h1>
+
+    <h1 class="text-center">Sign-In</h1>
+
+    <hr>
+
+
+    <div class="row">
+
+        <div class="col-md-6 col-md-offset-3">
+
             <form method="POST" action="{{url('/events/'.$eventId.'/signin')}}">
                 {!! csrf_field() !!}
                 <div class="form-group">
-                    <label for="firstname">Name</label>
-                    <input type="text" class="form-control" id="firstname" name="name" placeholder="Name" required>
+                    <label for="name">Name</label>
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
                 </div>
-                {{--<div class="form-group">--}}
-                    {{--<label for="lastname">Last Name</label>--}}
-                    {{--<input type="text" class="form-control" id="lastname" name="lastname" placeholder="Last Name" required>--}}
-                {{--</div>--}}
+
                 <label for="role">Select a role:</label>
                 <div class="radio">
                     <label><input type="radio" id="role" name="role" value="UK Student" required>UK Student</label>
