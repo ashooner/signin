@@ -27,6 +27,7 @@
 
         {{ $events->links() }}
 
+
         </div>
 
 

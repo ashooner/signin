@@ -13,6 +13,8 @@ class EventAdminController extends Controller
     {
         /*$events = Event::all();*/
         $events = Event::paginate(15);
+        // added to fix the 404 error in the events list
+        $events->withPath('signin/admin/events');
         return view('admin.events.index', compact('events') );
     }
     public function show(Event $event)
