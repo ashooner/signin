@@ -14,7 +14,7 @@
                 {!! csrf_field() !!}
                     <div class="form-group">
                         <label for="name">Name</label>
-                        <input type="text" class="form-control" id="name" name="name" placeholder="Cooking Class (2/16)" required>
+                        <input type="text" class="form-control" id="name" name="name" placeholder="ex. Cooking Class (2/16)" required>
                     </div>
 
                     <div class="form-group">
