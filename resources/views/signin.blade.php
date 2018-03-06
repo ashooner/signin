@@ -13,11 +13,11 @@
             <form method="POST" action="{{url('/events/'.$eventId.'/signin')}}">
                 {!! csrf_field() !!}
                 <div class="form-group">
-                    <label for="name">Name</label>
+                    <label for="name">Name  *</label>
                     <input type="text" class="form-control" id="name" name="name" placeholder="Full Name" required>
                 </div>
 
-                <label for="role">Select a role:</label>
+                <label for="role">Select a role:  *</label>
                 <div class="radio">
                     <label><input type="radio" id="role" name="role" value="UK Student" required>UK Student</label>
                 </div>
@@ -32,7 +32,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="role">For Cooperative Extention Agents, please select a county or district:</label>
+                    <label for="role">For Cooperative Extention Agents, please select a county or district:  *</label>
                     <select class="form-control" id="county" name="county">
                         <option></option>
                         <option>Adair</option>
@@ -165,7 +165,7 @@
                     </select>
                 </div>
                {{-- <label for="role">Would you like to receive our email newsletter?</label>--}}
-                <label for="role">Email</label>
+                <label for="role">Email  *</label>
                 <div class="form-group">
                     <input type="text" class="form-control" id="email" name="email" placeholder="Email Address">
                 </div>
