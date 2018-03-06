@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 
-    <h1 class="text-center">Create a New Event</h1>
+    <h1 class="text-center">Create New Event</h1>
 
     <hr>
 

@@ -14,7 +14,7 @@
                 {!! csrf_field() !!}
                 <div class="form-group">
                     <label for="name">Name</label>
-                    <input type="text" class="form-control" id="name" name="name" placeholder="Full Name" required>
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
                 </div>
 
                 <label for="role">Select a role:</label>
@@ -157,8 +157,7 @@
                         <option>Woodford</option>
                     </select>
                 </div>
-               {{-- <label for="role">Would you like to receive our email newsletter?</label>--}}
-                <label for="role">Email</label>
+                <label for="role">Would you like to receive our email newsletter?</label>
                 <div class="form-group">
                     <input type="text" class="form-control" id="email" name="email" placeholder="Email Address">
                 </div>

@@ -6,7 +6,19 @@
 
             <h1 class="text-center">{{ $event->name }}</h1>
 
+    <hr>
+
+        <div class="col-md-6 col-md-offset-3">
+
+
+            <form>
+                <a href="{{url('/events/'. $event->id .'/signin')}}" class="btn btn-primary btn-block" role="button">Sign in</a>
+            </form>
+
+            <br>
         </div>
+
+
 
         <div class="col-md-6 col-md-offset-3">
 
@@ -20,9 +32,5 @@
 
     </div>
 
-    <div class="col-md-6 col-md-offset-3">
 
-    <form> <a href="{{url('/events/'. $event->id .'/signin')}}" class="btn btn-default" role="button">Sign in</a></form>
-
-    </div>
 @stop

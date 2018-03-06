@@ -27,9 +27,9 @@
         </div>
 
 
-        <div class="col-sm-6 col-sm-offset-5">
+        {{--<div class="col-sm-6 col-sm-offset-5">
             <a href="{{url('/events/new')}}" class="btn btn-lg btn-success">Add New Event</a>
-        </div>
+        </div>--}}
 
     </div>
 

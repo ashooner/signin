@@ -11,7 +11,8 @@ class EventAdminController extends Controller
 
     public function index()
     {
-        $events = Event::all();
+        /*$events = Event::all();*/
+        $events = Event::paginate(15);
         return view('admin.events.index', compact('events') );
     }
     public function show(Event $event)
