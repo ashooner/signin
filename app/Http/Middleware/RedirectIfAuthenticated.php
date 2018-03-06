@@ -3,6 +3,7 @@
 namespace App\Http\Middleware;
 
 use Closure;
+use URL;
 use Illuminate\Support\Facades\Auth;
 
 class RedirectIfAuthenticated
@@ -17,10 +18,12 @@ class RedirectIfAuthenticated
      */
     public function handle($request, Closure $next, $guard = null)
     {
-        if (Auth::guard($guard)->check()) {
-            return redirect('/home');
+        if (!Auth::guard($guard)->check() && (URL::current() != url('/').'/login')) {
+//            return redirect('/home');
+            return redirect(url('/').'/login');
         } else {
-            return redirect('login');
+//            return redirect(url('/').'/login');
+           // return redirect('login');
         }
 
         return $next($request);
