@@ -32,7 +32,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="role">If you selected Cooperative Extention Agent, please select a county or district:</label>
+                    <label for="role">For Cooperative Extention Agents, please select a county or district:</label>
                     <select class="form-control" id="county" name="county">
                         <option></option>
                         <option>Adair</option>
