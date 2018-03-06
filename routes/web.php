@@ -15,7 +15,9 @@
 //    return view('welcome');
 //});
 
-
+if ( env('APP_ENV') != 'local' ) {
+    \URL::forceRootUrl('http://foodconnection.uky.edu/signin');
+}
 
 Auth::routes();
 Route::get('/', 'HomeController@index')->name('home');
