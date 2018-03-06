@@ -1,0 +1,492 @@
+[
+ {
+   "FIELD1": "2",
+   "FIELD2": "First Friday - Eat Local Buy Local",
+   "FIELD3": "2017-11-03",
+   "FIELD4": "",
+   "FIELD5": "FF"
+ },
+ {
+   "FIELD1": "3",
+   "FIELD2": "Keys to Our Common Future",
+   "FIELD3": "2017-11-07",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "4",
+   "FIELD2": "Food at Lunch - Kentucky Beef",
+   "FIELD3": "2017-11-09",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "5",
+   "FIELD2": "Gathering at the Table (11/14)",
+   "FIELD3": "2017-11-14",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "6",
+   "FIELD2": "GEO 350 - Keiko Tanaka Food Demo",
+   "FIELD3": "2017-11-28",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "8",
+   "FIELD2": "Extension Nutrition Education Specialists",
+   "FIELD3": "2017-11-30",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "9",
+   "FIELD2": "4H Agent Conference (12/5)",
+   "FIELD3": "2017-12-05",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "10",
+   "FIELD2": "4H Agent Conference (12/6)",
+   "FIELD3": "2017-12-06",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "11",
+   "FIELD2": "4H Agent Conference (12/7)",
+   "FIELD3": "2017-12-07",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "12",
+   "FIELD2": "Food at Lunch Forum (12/14)",
+   "FIELD3": "2017-12-14",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "13",
+   "FIELD2": "Winter Welcome Reception (12/14)",
+   "FIELD3": "2017-12-14",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "14",
+   "FIELD2": "ESL Cooking Class (10/27)",
+   "FIELD3": "2017-10-27",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "First Friday Breakfast - Agribility (2/2)",
+   "FIELD3": "2018-02-02",
+   "FIELD4": "",
+   "FIELD5": "FF"
+ },
+ {
+   "FIELD1": "16",
+   "FIELD2": "CKUK/SSTOP (2/6)",
+   "FIELD3": "2018-02-06",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "18",
+   "FIELD2": "Opthalmology Grand Rounds (2/9)",
+   "FIELD3": "2018-02-09",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "19",
+   "FIELD2": "Markey Cancer Center (2/12)",
+   "FIELD3": "2018-02-12",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "20",
+   "FIELD2": "Cooking Class with Chef Nichelle Thurston (2/13)",
+   "FIELD3": "2018-02-13",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "21",
+   "FIELD2": "Lunar New Year Celebration (2/16)",
+   "FIELD3": "2018-02-16",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "22",
+   "FIELD2": "First Friday - National Honey Month (9/1)",
+   "FIELD3": "2017-09-01",
+   "FIELD4": "",
+   "FIELD5": "FF"
+ },
+ {
+   "FIELD1": "23",
+   "FIELD2": "Food Systems Initiative - Open House (9/7)",
+   "FIELD3": "2017-09-07",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "24",
+   "FIELD2": "Gathering at the Table (9/12)",
+   "FIELD3": "2017-09-12",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "25",
+   "FIELD2": "UK Wellness - Veg Out! CSA Voucher Demo (9/14)",
+   "FIELD3": "2017-09-14",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "26",
+   "FIELD2": "Food at Lunch Forum - Betsy Beymer-Farris (9/21)",
+   "FIELD3": "2017-09-21",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "27",
+   "FIELD2": "UK Dining - Let's Cook! (9/26)",
+   "FIELD3": "2017-09-26",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "28",
+   "FIELD2": "Keys to Our Common Future (9/26)",
+   "FIELD3": "2017-09-26",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "29",
+   "FIELD2": "Gatton College of Business - Staff Retreat (9/28)",
+   "FIELD3": "2017-09-28",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "30",
+   "FIELD2": "UK Dining - Let's Cook! (10/3)",
+   "FIELD3": "2017-10-03",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "31",
+   "FIELD2": "Michael Twitty - Cooking Class (10/3)",
+   "FIELD3": "2017-10-03",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "32",
+   "FIELD2": "The economy and ethics of animal farming (10/4)",
+   "FIELD3": "2017-10-04",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "33",
+   "FIELD2": "UK Dining - Let's Cook! AM (10/5)",
+   "FIELD3": "2017-10-05",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "34",
+   "FIELD2": "UK Dining - Let's Cook!  PM (10/5)",
+   "FIELD3": "2017-10-05",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "35",
+   "FIELD2": "First Friday - Farm Tour (10/6)",
+   "FIELD3": "2017-10-06",
+   "FIELD4": "",
+   "FIELD5": "FF"
+ },
+ {
+   "FIELD1": "36",
+   "FIELD2": "Cooking Mooncakes (10/6)",
+   "FIELD3": "2017-10-06",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "37",
+   "FIELD2": "Keiko Tanaka's Potluck and Demo (10/10)",
+   "FIELD3": "2017-10-10",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "38",
+   "FIELD2": "American Farmland Trust Discussion (10/10)",
+   "FIELD3": "2017-10-10",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "39",
+   "FIELD2": "Gathering at the Table (10/10)",
+   "FIELD3": "2017-10-10",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "40",
+   "FIELD2": "Who does the work? (10/11)",
+   "FIELD3": "2017-10-11",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "41",
+   "FIELD2": "Craft writing and teaching (10/12)",
+   "FIELD3": "2017-10-12",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "42",
+   "FIELD2": "Class Demonstration (10/12)",
+   "FIELD3": "2017-10-12",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "43",
+   "FIELD2": "Fair Trade Coffee (10/18)",
+   "FIELD3": "2017-10-18",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "44",
+   "FIELD2": "UK Dining - Let's Cook! AM (10/19)",
+   "FIELD3": "2017-10-19",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "45",
+   "FIELD2": "UK Dining - Let's Cook! PM (10/19)",
+   "FIELD3": "2017-10-19",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "46",
+   "FIELD2": "Field Trip to Erik's Organics (10/25)",
+   "FIELD3": "2017-10-25",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "47",
+   "FIELD2": "Lindsay Shade (10/26)",
+   "FIELD3": "2017-10-26",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "48",
+   "FIELD2": "Anita Courtney - Nutrition Class (10/31)",
+   "FIELD3": "2017-10-31",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "49",
+   "FIELD2": "Local food lecture and cooking class (10/31)",
+   "FIELD3": "2017-10-31",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "50",
+   "FIELD2": "Transformative Learning (2/19)",
+   "FIELD3": "2018-02-19",
+   "FIELD4": "Staff Retreat Cooking Class",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "51",
+   "FIELD2": "President’s Sustainability Advisory Council (2/20)",
+   "FIELD3": "2018-02-20",
+   "FIELD4": "PSAC meeting",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "52",
+   "FIELD2": "Food @ Lunch Forum (2/21)",
+   "FIELD3": "2018-02-21",
+   "FIELD4": "Jim Ziliak, PhD\nFood Insecurity and Food Assistance in the U.S.",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "53",
+   "FIELD2": "Class visit (2/22)",
+   "FIELD3": "2018-02-22",
+   "FIELD4": "Food, Culture, and Society class lecture and demo",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "54",
+   "FIELD2": "Back to Basics Cooking Class (2/22)",
+   "FIELD3": "2018-02-22",
+   "FIELD4": "B2B: Food with Friends",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "55",
+   "FIELD2": "Big Blue Pantry Sampling (2/28)",
+   "FIELD3": "2018-02-28",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "56",
+   "FIELD2": "Neurogastronomy Conference (3/02)",
+   "FIELD3": "2018-03-02",
+   "FIELD4": "Lunch and chef challenge",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "57",
+   "FIELD2": "Gathering at the Table (3/06)",
+   "FIELD3": "2018-03-06",
+   "FIELD4": "Cooking class and dinner",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "58",
+   "FIELD2": "Gen 100 (3/20)",
+   "FIELD3": "2018-03-20",
+   "FIELD4": "Cooking class",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "59",
+   "FIELD2": "Food @ Lunch Forum (3/21)",
+   "FIELD3": "2018-03-21",
+   "FIELD4": "Demonstration by Tyler Kord, Chef, No. 7 Sub",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "60",
+   "FIELD2": "Back to Basics Cooking Class (3/22)",
+   "FIELD3": "2018-03-22",
+   "FIELD4": "B2B: Culinary Classics",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "61",
+   "FIELD2": "Ag LLP (3/27)",
+   "FIELD3": "2018-03-27",
+   "FIELD4": "International student challenge",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "62",
+   "FIELD2": "Big Blue Pantry Sampling (3/28)",
+   "FIELD3": "2018-03-28",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "63",
+   "FIELD2": "Gathering at the Table (3/28)",
+   "FIELD3": "2018-03-28",
+   "FIELD4": "Cooking class and dinner",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "64",
+   "FIELD2": "Keys to Our Common Future (4/03)",
+   "FIELD3": "2018-04-03",
+   "FIELD4": "Cuban Cuisine with Ondine Quinn",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "65",
+   "FIELD2": "First Friday Breakfast (4/06)",
+   "FIELD3": "2018-04-06",
+   "FIELD4": "Heirloom Seeds",
+   "FIELD5": "FF"
+ },
+ {
+   "FIELD1": "66",
+   "FIELD2": "Gathering at the Table (4/10)",
+   "FIELD3": "2018-04-10",
+   "FIELD4": "Cooking class and dinner",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "67",
+   "FIELD2": "Big Blue Pantry Sampling (4/11)",
+   "FIELD3": "2018-04-11",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "68",
+   "FIELD2": "Food at Lunch Forum (4/18)",
+   "FIELD3": "2018-04-18",
+   "FIELD4": "Vanessa Oliver and Jody Ensman - The Link Between Wellness Programs and Employee Health Care Costs",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "69",
+   "FIELD2": "Clark County 4H (4/19)",
+   "FIELD3": "2018-04-19",
+   "FIELD4": "Cooking class",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "70",
+   "FIELD2": "Anthropology 250 (4/26)",
+   "FIELD3": "2018-04-26",
+   "FIELD4": "Archaeology Potluck",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "71",
+   "FIELD2": "First Friday Breakfast (5/04)",
+   "FIELD3": "2018-05-04",
+   "FIELD4": "CLUCK",
+   "FIELD5": "FF"
+ },
+ {
+   "FIELD1": "72",
+   "FIELD2": "4H Teen Conference (6/12)",
+   "FIELD3": "2018-06-12",
+   "FIELD4": "Cooking Challenge Class",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "4H Teen Conference (6/13)",
+   "FIELD3": "2018-06-13",
+   "FIELD4": "Cooking Challenge Class",
+   "FIELD5": ""
+ }
+]

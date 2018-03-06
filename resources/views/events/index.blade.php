@@ -23,6 +23,7 @@
             @endforeach
         </ul>
 
+        {{ $events->links() }}
 
         </div>
 

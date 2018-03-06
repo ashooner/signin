@@ -1,0 +1,4328 @@
+[
+ {
+   "FIELD1": 2,
+   "FIELD2": "Aaron German",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Aaron German",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Aaron German",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Aaron German",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "aaron.german@uky.edu"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Aaron Mathias",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Abbey Moellering",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "abbey.moellering@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Abigail Camfield",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Adair Baysinger",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "McCracken",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Aerin Mitchell",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "aerin.mitchell@uky.edu"
+ },
+ {
+   "FIELD1": 14,
+   "FIELD2": "Ailton Rodrigues",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Aimee Russillo",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "arussillo@liseed.com"
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Aklilu Reda",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "aklilu.habtu@uky.edu"
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Alaina Smith",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Alan Thomas",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Alec Steckler",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Alex Kamber",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Alex Rosenzweig",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Alexis Klein",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Alicia Landon",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Alicia Landon",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Alicia Landon",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Alicia.landon@uky.edu"
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Alicia Landon",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Alissa Ackerman",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Clay",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Alli Rossi",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Allie Brasher",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Henderson",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Allie Click",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Fayette",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Allo Petro",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Ally Rossi",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Amanda Gumbert",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "amanda.gumbert@uky.edu"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Amanda Hege",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Amanda Hege",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Amanda Hege",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Amanda.hege@uky.edu"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Amanda Sublett",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "",
+   "FIELD5": "amanda.sublette@uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Amber Huffman",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Hart",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Amy Curtis",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Amy Groswald",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Andrew Smith",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Anisah Arain",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Anita Courtney",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Ann Hall Norris",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Anna Meador",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Allen",
+   "FIELD5": "Anna.meador1@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Anna Romaniuk",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Annette Buckman",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "annettebuckman@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Ariana Giglio",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Ariane Ishimwe",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "dishimwe119@gmail.com"
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Asheem Syeda",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Ashley Walters",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Ashley.walters1@uky.edu"
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Austin Guevarra",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Austin Hazelwood",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Austin Zinkle",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Austyn Erickson",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Bailey Riordan",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Dbriordan@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Barbara Sterrett",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Bsterrett@twc.com"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Baron Wolf",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Baron Wolf",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Baron Wolf",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Barrry Barnett",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Becky Naugle",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Lrnaug0@uky.edu"
+ },
+ {
+   "FIELD1": 38,
+   "FIELD2": "Ben Martin",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Ben Windholz",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "ben.windholz@uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Ben Yates",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Ben Yates",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Ben Yates",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Betsy Fink",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Betsy.fink@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Bill Best",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "bill_best@heirlooms.org"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Bill Bickford",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Bill Settles",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Billsettles@hotmail.com"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Bill Settles",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "billsettles@hotmail.com"
+ },
+ {
+   "FIELD1": 38,
+   "FIELD2": "Billy VanPelt",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Bob Barbera",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Bob Perry",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Bob Sandmeyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "bob.sandmeyer@uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Bob Sandmeyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Braidyn D'Alessandri",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Brent Burchett",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "brent.burchett@ky.gov"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Brett Wolff",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Brittany Cook",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Brittany.cook@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Brooke Gentile",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Brooke Gentile",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Brooke Gentile",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Brooke Gentile",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Brooke@oak-ky.org"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Bryan Brady",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Candice Fulcher",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "Shelby",
+   "FIELD5": "Candice.fulcher@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Carl Warner",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Carl Werner",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Carly Schnur",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Caroline Barbera",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Caroline Blincoe",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Caroline Durr",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Carolyn Gahn",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Carolyn Gahn",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Carrie Coleman",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Grant",
+   "FIELD5": "Carrie.coleman@uky.edu"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Carrie Derossett",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Logan",
+   "FIELD5": "carrie.derossett@uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Caryn McCreary",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Lawrence",
+   "FIELD5": "caryn.mccreary@uky.edu"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Cassie Stidham",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Catherine Webster",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Simpson",
+   "FIELD5": "Cwebster@uky.edu"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Cathy Toole",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Henry",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Cathy Weaver",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Jessamine",
+   "FIELD5": "Cathy.weaver@uky.edu"
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Cayla Hurst",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Celia Bergman",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Kenton",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Cesar Avila",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 50,
+   "FIELD2": "Chance Davenport",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Charles Comer",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Montgomery",
+   "FIELD5": "ccomer@uky.edu"
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Charlie Eckmann",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Chase Thornton",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "ctth224@g.uky.edy"
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Cherry Kay Smith",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Chimene Ntakarutimana",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 14,
+   "FIELD2": "Christine Stephens-Bez",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Christy Brady",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Cindy Deetz",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Cbdeitz@outlook.com"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Cindy Deitz",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "CJ Sadler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Claire@uky.edu"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Claire Carpenter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Claire Linepensel",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Campbell",
+   "FIELD5": "Claire.linepensel@uky.edu"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Connie Jennings",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Connor VanMeter",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Connor VanMeter",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Czarena Crofcheck",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Damon Snyder",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Damon Snyder",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "damonsnyder@gmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Damon Snyder",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Damonsnyder@gmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Dan Han",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Dan Sharp",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Daniel Oxnard",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Danielle Graham",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Danielle Stahl",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "danielle.stahl@uky.edu"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Danielle Stahl",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Danielle Stahl",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Danielle Stahl",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Danielle Stahl",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "danielle.stahl12@gmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Darreldean Winkler",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "David Elbon",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "dce@qx.net"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "David Littlejohn",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Bullitt",
+   "FIELD5": "Dlitt3@uky.edu"
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "David Luke",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "David Luke",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "David Masto",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "David Mato",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "David Parkhurst",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "parkhurs@indiana.edu"
+ },
+ {
+   "FIELD1": 14,
+   "FIELD2": "Dayong Zhou",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Deana K Reed",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Meade",
+   "FIELD5": "Deanakreed@uky.edu"
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Debbie O'Daniel",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Debby Stoops",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "debbiestoops7@gmail.com"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Deborah Hill",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "dbhill@uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Cindy Deitz",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "cbdeitz@outlook.com"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Denise Donahue",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Kenton",
+   "FIELD5": "ddonahue@uky.edu"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Dennis Fehr",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Derrick Hill",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Derrick.hill@uky.edu"
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Destiny Butler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Destiny C Witherspoon",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Destiny Witherspoon",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Diane Kelley",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "Kenton",
+   "FIELD5": "dkelley@uky.edu"
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Dominique Wood",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Livingston",
+   "FIELD5": "Dominique.wood@uky.edu"
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Donica Buechlin",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Donna Hancock",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "donna.gancick@uky.edu"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Doug Appel",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Doug Mclaren",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "dmclaren@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "E Allen",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Edward Hill",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "edwardhill146@yahoo.com"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Eileen Ramirez",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Elizabeth Allen",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "eaallen@sullivan.edu"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Elizabeth Allen",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Elizabeth Coots",
+   "FIELD3": "County Extension Agent",
+   "FIELD4": "Woodford",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Elizabeth Coots",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Woodford",
+   "FIELD5": "Elizabeth.coots@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Elizabeth Varney",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Elizabeth Varney",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Elizabeth Varney",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Ellen Green",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Eloise Kowal",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "elliekowal@hotmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Emily Dewitt",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Emde224@g.uky.edy"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Emily Ellingson",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Emily Ellingson",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Fayette",
+   "FIELD5": "Em.k.ellingson@gmail.com"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Emily Ofsa",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Emily Popham",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Erica Daly",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Erica LaCour-Thompson",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Christian",
+   "FIELD5": "Erica.Thompson@kysu.edu"
+ },
+ {
+   "FIELD1": 50,
+   "FIELD2": "Eve Wallingford",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Evelyn Willis",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "ewi248@g.uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Fahr Dennis",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Falynn Thompdon",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "fal.thomps"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Fay Almalki",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Gaby Mandlhate",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "gaby.mandlhate@uky.edu"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Gail Lightener",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "gail.lightener@twc.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Gail Lightener",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Gayle Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Gayle Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Bourne@windstream.net"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Gary Druin",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Ohio",
+   "FIELD5": "gdruin@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Gary Palmer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Gary Palmer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Gary Palmer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Gaukhar Kussainova",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Gayle Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Gayle Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Georgette Owusu-Amankwah",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "gow222@g.uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Glenn Princic",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "gbprincic@yahoo.com"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Grace Anderson",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Grace Ragain",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Grace.ragain@uky.edu"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Gracie Bates",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Gracie Bates",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Graham Conger",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Grant Bartholomew",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "grantabartholomew@gmail.com"
+ },
+ {
+   "FIELD1": 50,
+   "FIELD2": "Grant Victor",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Haley Oz",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Greg Halich",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Hannah Hatch",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "hjha225@g.uky.edu"
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Hannah Hickey",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Hannah Sullivan",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Haroletha Klausing",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "harolethak@gmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Hattie Nunley",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Hattie.nunley@uky.edu"
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Hayley Stephenson",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Hazel Warner",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Hazel Werner",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Hazel Werner",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Cwern99@hotmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Hazel Werner",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Heather Norman",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "heather.norman@uky.edu"
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Heba Allam",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 50,
+   "FIELD2": "Heidi Morrow",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Helie Oz",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Helie Oz",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Hoz2@email.uky.edu"
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Helie Oz",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Helie Oz",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Holly Hughes",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Holly Hughes",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Ihaily Yang",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Iris Gakvan",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Isaac Ortiz",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "dream.chaser12@yahoo.com"
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Isac Rodgers",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "igro223@uky.edu"
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Jaazmin Hairston-Chainey",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Jaazmin Hairston-Chainey",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Jack Wilson",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Jack Wilson",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Jackie Gallimore",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Jackie.gallimore@uky.edu"
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Jacquelyn Appel",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Jairus Rossi",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Jairus Rossi",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "jro225@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Jakaylyn Bishop",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "jabi233@uky.edu"
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Jalyn Mason",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "James Barnes",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "James Yates",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Janeen Tramble",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Trigg",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Janet Cabaniss",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Janet Cabaniss",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "janet.cabaniss@uky.edu"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Janet Turley",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "",
+   "FIELD5": "jturley@uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Jairus Rossi",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Jason Carr",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "jascarr4@yahoo.com"
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Jennifer Leung",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Jennifer Taylor",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Jeremiah Wayne",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Jeremy Porter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Jeremy Teal",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Hopkins",
+   "FIELD5": "jteal@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Jerry Edmonds",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Jerry@foodchainlex.org"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Jerry Markusen",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Jerry Markussen",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Jerry Markussen",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "jerrymarkussen@yahoo.com"
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Jesse McDonald",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Jessica Gross",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Breathitt",
+   "FIELD5": "jessica.gross1@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Jessica Morris",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Jessica Williams",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "jmwi278@uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Jill Schaefer",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "jlsc246@uky.edu"
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Jim Hughes",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "hugheszpl@gmail.com"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Jim Hughes",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "hugheszpl@gmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Jim Hughes",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Jing Xu",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Jintao Cao",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Joe Omielan",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "joe.omielan@uky.edu"
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "John Allison",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "John Harris",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "John Hughes",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "jbressler32@gmail.com"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "jbressler32@gmail.com"
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Jordan Bressler",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Jordan Burdine",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Jordan Marable",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "jma352@uky.edu"
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Jordan McDonald",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Jordan Thomas",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Josh England",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "josh@lexingtonfarmersmarket.com"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Joshua Lecompete",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Joshua Lecompte",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Joshua_lecompte2@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "JS Hughes",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Hugheszpl@gmail.com"
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Juan Lee-Thacker",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "jle293@g.uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Judy Johnson",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Judylex@twc.com"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Julia Hofmeister",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Julia Wilson",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Edmonson",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Julianne Stahl",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Julie Brown",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Warren",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Julie Pauly",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "jspauly@gmail.com"
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Kahlil Baker",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Kahlil Baker",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Kaira Taylor",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Kaira Taylor",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Karen Fawcett",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Karen Lanier",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "karen@cfaky.org"
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Karen Rig All",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Kassidy Hansen",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Kate Ambrose",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "kateambrose@uky.edu"
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Kate Black",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Katey Fiske",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "krfi223@uky.edu"
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Kathryn Johnson",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Kathy Yates",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Kati Bowman",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Kbowman@kcard.info"
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Katie Ellis",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Katieellis@berrycenter.org"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Katie Fisk",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Katie Fisk",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Katie Fiske",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Krfi223@g.uky.edu"
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Katie Wallace",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Elliott",
+   "FIELD5": "Katie.c.wallace@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Katrina Kelly",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Kat.polkadot@gmail.com"
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Kelci McHugh",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Kellsey Agnew",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "Campbell",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Kelly Smith",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Jefferson",
+   "FIELD5": "Kelly.mcdonough@uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Kelsey Chadwick",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Carlisle",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Kendriana Price",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Christian",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Kendyl Redding",
+   "FIELD3": "County Extension Agent",
+   "FIELD4": "Menifee",
+   "FIELD5": "kendyl.wahley@uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Kendyl Redding",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Menifee",
+   "FIELD5": "kendyl.whaley@uky.edu"
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Kenny Burdine",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Kenyatta Mitchell",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Kenyatta Mitchell",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Kevin Moore",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Kevin Richie",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 50,
+   "FIELD2": "Kevin Tillman",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Kim Lane",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Morgan",
+   "FIELD5": "kim.lane@uky.edu"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Krista Jacobsen",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Krista Jacobsen",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Krista Jacobsen",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Krista Jacobson",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Kristen Watkins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Kristen Wilson Watkins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Kristen Wilson Watkins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Kristen Wilson Watkins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "kristen.watkins@uky.edu"
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Kristen Wilson Watkins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Kristi Durbin",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "kristi.durbin@uky.edu"
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Kristi Durbin",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "kristi.durbin@uky.edu"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Kristi Durbin",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Kristin Ingwell-Goode",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "kingwell4@yahoo.com"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Kristin Wilson Watkiins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Lacy May",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Magoffin",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Laken Campbell",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Lee",
+   "FIELD5": "Laken.campbell@uky.edu"
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Lakmani Galaniha",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Lamar Fowler",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Grant",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Lauren Batey",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "lauren.batey@gmail.com"
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Lauren Bennett",
+   "FIELD3": "UK Student",
+   "FIELD4": "Calloway",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Lauren Gawthrop",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "laureng@goodfoods.coop"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Lauren Gawthrop",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Laureng@goodfood.coop"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Lauren McKnight-Ford",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Lauren McNight-Ford",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "lauren.mcnight-ford@uky.edu"
+ },
+ {
+   "FIELD1": 50,
+   "FIELD2": "Lee Ferrell",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Lee Meyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Lee Meyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Lee Meyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Lee Meyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Lee.meyer@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Lee Meyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 38,
+   "FIELD2": "Lee Meyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Lee Meyer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Leigh Maynard",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Leigh Maynard",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Leigh Maynard",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Leigh Maynard",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Leigh.maynard@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Leigh Maynard",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Leigh Maynard",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Leigh Meynard",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Lena Cornett",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "lenasbridle@yahoo.com"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Lena Mallory",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Marshall",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Lesley Carter",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 38,
+   "FIELD2": "Lilian Brislen",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Lindsey Boone",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Daviess",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Lindsey Cox",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Lisa Adams",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Madison",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Lisa Cliggett",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Lisa Munniksma",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Lisa Munniksma",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "lisa@lisa-writes.com"
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Lisa Munniksma",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Lisa Pohl",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Lisa Pohl",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Lizzie Morelan",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Lloyd G. Saylor",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Butler",
+   "FIELD5": "lsaylor@uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Lois Carter",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Bourbon",
+   "FIELD5": "lcarter@uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Lori Clark",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Kenton",
+   "FIELD5": "Lori.clark@uky.edu"
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Louis Milligan",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Jefferson",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Luci Keller",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Luci Keller",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Luke Brockman",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Luke Miles",
+   "FIELD3": "UK Student",
+   "FIELD4": "Scott",
+   "FIELD5": "lhmi223@uky.edu"
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Luke Miles",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "luke.lambda@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Lydia Roll",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "lydiaroll@uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Lynn Winter",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "lawinter88@icloud.com"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Mackenzie Myssner",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Macy Hagan",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Madison Cissell",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Madison Cissell",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Madison Fox",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Madison Hilgendorf",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Madison McAlmond",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Nicholas",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Maggie Favier",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "mlfa225@uky.edu"
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Maria Paolini",
+   "FIELD3": "UK Student",
+   "FIELD4": "Boyd",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Mark Eclove",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "eclovsawdust@gmail.com"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Mark Eclove",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Mark Henkel",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Markhenkle@twc.com"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Marla Davis",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Marla.davis@uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Marla Stillwell",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Hardin",
+   "FIELD5": "marla.stillwell@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Mary Alexander",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "mary.llalexander@gmail"
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Mary Averbeck",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Kenton",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Mary Beth Schmid",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Mary Eclove",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Mary Jane Little",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Mason",
+   "FIELD5": "Maryjane.little@uky.edu"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Mary Lucas",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Marion",
+   "FIELD5": "mary.lucas@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Masdoud Arabghahestani",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "mar243@uky.edu"
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Matt Cosgrove",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Matt Dillon",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Matty Evans",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "McKinsey Steurer",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "mtst228@uky.edu"
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "McKinsey Steurer",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Meagan Klee",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Casey",
+   "FIELD5": "meagan.klee@uky.edu"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Meagan Lucas",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Pulaski",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Megan Arcangel",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Megan Damico",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Melissa Armstrong",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Melody Flowers",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Mia Farrell",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Michael Bowen",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Michael Di Girolamo",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 38,
+   "FIELD2": "Michael Piotti",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Michael Ristau",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Michael Ristau",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "m2071r@gmail.com"
+ },
+ {
+   "FIELD1": 14,
+   "FIELD2": "Michael Suess",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Michelle Beard",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "michellebeard222@gmail.com"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Michelle Beard",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Michelle Beard",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Mike Pennell",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 14,
+   "FIELD2": "Min Zhou",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "min.zhou@uky.edu"
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Miranda Fields",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Mirindi Kabangu",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Misty Wilmoth",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "",
+   "FIELD5": "mwilmoth@uky.edu"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "MK Cole",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Morgan Barnette",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Morgan Barnette",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Morgan Gerlitz",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Morgan Griffis",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Mjgr234@uky.edu"
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "N. Thomas Hakansson",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Hakansson@uky.edu"
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Nailah Spencer",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "nailahspencer@icloud.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Nancy McNally",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Narisa Khamvanthong",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Natasha Robinson",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Whitley",
+   "FIELD5": "tasha.robinson@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Nathan Johnson",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Nathan.johnson@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Nick Pennington",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "nick@theweeklyjuicery.com"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Nick Pilcher",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "n.pilcher222222uky.edu"
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Nicole Jenkins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Nicole Jenkins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Nicole Jenkins",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Noah Oldham",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "noaholdham19@gmail.com"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Norma Taylor",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "nftaylor@cellstrategies.com"
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Novella B Froman",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Pike",
+   "FIELD5": "nfroman@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Oliver White",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Oliverwhite87@gmail.com"
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Paige Connelly",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Paige Harrison",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Pam Barnes",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Pam Sigler",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Pam Sigler",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Pam Sigler",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Psigler@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Pam Stiegel",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Pamela Anderson",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Pamela Anderson",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Pamela Holbrook",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Pamela Holbrook",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "pamela.holbrook@uky.edu"
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Pamela Holbrooke",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Pat Chamberlain",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Patsy Stice",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Pstice@twc.com"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Penny Mazur",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Pjma223@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Peter Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Peter Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Peter Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Peter Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Bourne@windstream.net"
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Peter Bourne",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 14,
+   "FIELD2": "Pranav Prasoon",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Pulkit Vigg",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Quantez Crowe",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Rachel Cook",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Rachel Gillespie",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Rachel Gonzalez",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "rachel.gonzalez@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Rachel Staub",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "rachlstau@gmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Rachel Thomas",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Rrthomas4@aol.com"
+ },
+ {
+   "FIELD1": 14,
+   "FIELD2": "Raiha Mirza",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "rami242@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Randall Eaker",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Rebcca Hill",
+   "FIELD3": "UK Student",
+   "FIELD4": "Marion",
+   "FIELD5": "becca.hill@uky.edu"
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Rebecca Kegebein",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Rebecca Konopka",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "",
+   "FIELD5": "rebecca.k@uky.edu"
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Rebecca Leigh",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Rebecca McCulley",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 26,
+   "FIELD2": "Rebecca McCulley",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 41,
+   "FIELD2": "Rebecca McCulley",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Rebecca Von Groote",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "rebecca.vongroote@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Rebekah Ellsworth",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Reeya Kahnal",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "rks229@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Remy Olson",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Rena Keith",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 11,
+   "FIELD2": "Renata Farmer",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Knox",
+   "FIELD5": "Rnmont2@uky.edu"
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Rhona Roberts",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Rian Davis",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Rin Ishikawa",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Rin Ishikawa",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Rin Ishikawa",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Rin Ishikawa",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Rin.Ishikawa@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Rin Ishikawa",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Rin.Ishikawa@uky.edu"
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Ristau",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Rita Booth",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Rita Parsons",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Robert Ellis",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Robert Guerin",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "robert.guerin@uky.edu"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Robert Houtz",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Rona Roberts",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Rona Roberts",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Rui Li",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Runyu Tan",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Russ Turpin",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Russ Turpin",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "russ@ecogro.net"
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Ruth Gonzalez",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "ruth.gonzalez@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Ryan Koch",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Ryan Kosh",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Ryan Welleford",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Samane Zare",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "samane.zare@uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Samantha Gamblin",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Bullitt",
+   "FIELD5": "sjeff2@uky.edu"
+ },
+ {
+   "FIELD1": 5,
+   "FIELD2": "Samantha La Mar",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "samantha.lamar@uky.edu"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Samantha Lamar",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "samantga.lamar2uky.esu"
+ },
+ {
+   "FIELD1": 14,
+   "FIELD2": "Sara",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Sara Talbott",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "sara.talbott@uky.edu"
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Sarah Bowker",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Sarah Holton",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "seholt2@g.uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Sarah Redmon",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "Woodford",
+   "FIELD5": "Sarah.redmon@uky.edu"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Savannah Page",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 38,
+   "FIELD2": "Scott Hall",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Scott Smith",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Scott Smith",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Seema Capoor",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Scapoor@uky.edu"
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Seth Biedenbender",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Sethlikespotatoes@gmail.com"
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Shana Hall",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Shane Tedder",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Sharon Hodge",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "cswhodge@uky.edu"
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Shawn Burns",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Shawnburnslex@gmail.com"
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Shawn Park",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Shayna Holloway",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Shayna Holloway",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Sheila Sagbo",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Shelby Carroll",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Shelbcarr@gmail.com"
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Sheridan Broady",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Sherri Farley",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Campbell",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Sherrill Bentley",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Lewis",
+   "FIELD5": "sbentley@uky.edu"
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Stacey Potts",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Daviess",
+   "FIELD5": "stacey.potts@uky.edu"
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Staci Thrasher",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Fleming",
+   "FIELD5": "Staci.newsom@uky.edu"
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Stephanie Daniel",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Stephanie Reedy",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "sereed0@uky.edu"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Stephanie Reedy",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Steve Muntz",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Steve Muntz",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Stevemuntz@ssawg.org"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Steven Clem",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "steven@clemfoods.com"
+ },
+ {
+   "FIELD1": 4,
+   "FIELD2": "Steven Clem",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Clems@clemsfoods.com"
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Stewart Grace",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Sukhendu Barua",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 10,
+   "FIELD2": "Susan Campbell",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Anderson",
+   "FIELD5": "Susan.campbell@uky.edu"
+ },
+ {
+   "FIELD1": 15,
+   "FIELD2": "Susan Hayes",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Susan Hayes",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "shhayes@uky.edu"
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Susan Higdon",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "susanhigdon@yahoo.com"
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Susan Rease",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Susanna Goggans",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Tad Dunn",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "Datnnud@twc.com"
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Tamara Sandberg",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Tanya Whitehouse",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "tanya.whitehouse@uky.edu"
+ },
+ {
+   "FIELD1": 54,
+   "FIELD2": "Tanya Whitehouse",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "tanya.whitehouse@gmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Tee Bergman",
+   "FIELD3": "Community Member",
+   "FIELD4": "Fayette",
+   "FIELD5": "Teebergman@twc.com"
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Therese Moseley",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "thereseandmark@windstream.net"
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Thomas Ard",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Tom Hanna",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "Tom.hanna@uky.edu"
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Toni Rodgers",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Toni Rodgers",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Toni Rodgers",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "tonijames530@gmail.com"
+ },
+ {
+   "FIELD1": 29,
+   "FIELD2": "Tony Day",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Tyler Majchrzak",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Tyler Majchrzak",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 49,
+   "FIELD2": "Umaima Syeda",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "umaima.syeda@uky.edu"
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Unique Young",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Vanessa Oliver",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Vanessa Oliver",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Velvet Henkle",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 31,
+   "FIELD2": "Veronica Scott",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Victor Simi",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Victoria Meyer",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Victoria Meyer",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 22,
+   "FIELD2": "Victoria Meyer",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": "vmeyer53@gmail.com"
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Victoria Meyer",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 20,
+   "FIELD2": "Victoria Scott",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 13,
+   "FIELD2": "Viktor Halmos",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 9,
+   "FIELD2": "Wanda Paris",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Lyon",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 35,
+   "FIELD2": "Wayne Long",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Jefferson",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Wayne Ong",
+   "FIELD3": "Cooperative Extention Agent",
+   "FIELD4": "Jefferson",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Werner Carl N Hazel",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 28,
+   "FIELD2": "Will Silberman",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "will.silberman@uky.edu"
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "William Torres",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 24,
+   "FIELD2": "Xavier Edgren",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": "Xemonkey@gmail.com"
+ },
+ {
+   "FIELD1": 39,
+   "FIELD2": "Xavier Edgren",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Yang Jiang",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": "yjiang@uky.edu"
+ },
+ {
+   "FIELD1": 3,
+   "FIELD2": "Yingchao Han",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 52,
+   "FIELD2": "Yoko Kusunose",
+   "FIELD3": "UK Staff or Faculty",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Yuan Chen",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Yuanming Lou",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 21,
+   "FIELD2": "Yuwen Fang",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 2,
+   "FIELD2": "Yvonne White",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 8,
+   "FIELD2": "Zach Murphy",
+   "FIELD3": "Community Member",
+   "FIELD4": "",
+   "FIELD5": ""
+ },
+ {
+   "FIELD1": 53,
+   "FIELD2": "Zoe Zamora",
+   "FIELD3": "UK Student",
+   "FIELD4": "",
+   "FIELD5": ""
+ }
+]
