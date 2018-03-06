@@ -18,14 +18,14 @@ class RedirectIfAuthenticated
      */
     public function handle($request, Closure $next, $guard = null)
     {
-        if (!Auth::guard($guard)->check() && (URL::current() != '/signin/login')) {
-            return redirect('/signin/login');
-        }
+//        if (!Auth::guard($guard)->check() && (URL::current() != '/signin/login')) {
+//            return redirect('/signin/login');
+//        }
 
         // uncomment this for localhost
-//        if (Auth::guard($guard)->check()) {
-//            return redirect('/home');
-//        }
+        if (Auth::guard($guard)->check()) {
+            return redirect('/home');
+        }
 
 
         return $next($request);
