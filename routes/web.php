@@ -16,7 +16,7 @@
 //});
 
 if ( env('APP_ENV') != 'local' ) {
-    \URL::forceRootUrl('http://foodconnection.uky.edu/signin');
+    \URL::forceRootUrl('http://foodconnection.uky.edu/signin/');
 }
 
 Auth::routes();
