@@ -14,7 +14,7 @@ class EventAdminController extends Controller
         /*$events = Event::all();*/
         $events = Event::paginate(15);
         // added to fix the 404 error in the events list
-        $events->withPath('events');
+        $events->withPath('admin/events');
         return view('admin.events.index', compact('events') );
     }
     public function show(Event $event)
@@ -43,7 +43,7 @@ class EventAdminController extends Controller
     public function download(Event $event){
         $attendees = $event->attendees;
         $csvExporter = new \Laracsv\Export();
-        $csvExporter->build($attendees, ['name', 'role', 'county', 'email'])->download($event->name.'_'.$event->date.'.csv');
+        $csvExporter->build($attendees, ['name', 'role', 'county', 'email'])->download($event->date.'.csv');
 
 
     }
