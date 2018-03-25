@@ -25,10 +25,15 @@ class LoginController extends Controller
      *
      * @var string
      */
-     protected $redirectTo = '/signin';
+     //protected $redirectTo = '/signin';
 
-    //protected function redirectTo() {
-// }
+    protected function redirectTo() {
+        return '/signin/events/';
+    }
+
+    protected function redirectPath() {
+        return '/signin/events/';
+    }
 
 
     /**
@@ -38,6 +43,6 @@ class LoginController extends Controller
      */
     public function __construct()
     {
-        //$this->middleware('guest')->except('logout');
+        $this->middleware('guest')->except('logout');
     }
 }
