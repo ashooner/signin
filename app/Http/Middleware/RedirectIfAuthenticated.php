@@ -26,8 +26,6 @@ class RedirectIfAuthenticated
         if ( env('APP_ENV') != 'local' ) {
             if (Auth::guard($guard)->check()) {
                 return redirect()->route('home');
-            } else {
-                return redirect('/login');
             }
 
         } else {
