@@ -22,12 +22,18 @@ class RedirectIfAuthenticated
 //            return redirect('/signin/login');
 //        }
 
-        // uncomment this for localhost
-        if (Auth::guard($guard)->check()) {
-//            return redirect('/home')
-              return redirect()->route('home');
-        }
 
+        if ( env('APP_ENV') != 'local' ) {
+            if (!Auth::guard($guard)->check() && (URL::current() != '/signin/login')) {
+                return redirect('/signin/login');
+            }
+
+        } else {
+            if (Auth::guard($guard)->check()) {
+                return redirect()->route('home');
+            }
+
+        }
 
         return $next($request);
     }
