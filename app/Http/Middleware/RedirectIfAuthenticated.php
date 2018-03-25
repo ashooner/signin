@@ -24,7 +24,8 @@ class RedirectIfAuthenticated
 
         // uncomment this for localhost
         if (Auth::guard($guard)->check()) {
-            return redirect('/home');
+//            return redirect('/home')
+              return redirect()->route('home');
         }
 
 
