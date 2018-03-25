@@ -22,11 +22,11 @@ class RedirectIfAuthenticated
 //            return redirect('/signin/login');
 //        }
 
-        return redirect()->route('events');
-
         if ( env('APP_ENV') != 'local' ) {
             if (Auth::guard($guard)->check()) {
-                return redirect('/signin');
+                return redirect()->route('admin.events.create');
+            } else {
+                return redirect()->route('events');
             }
 
         } else {
