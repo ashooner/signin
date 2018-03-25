@@ -25,7 +25,7 @@ class LoginController extends Controller
      *
      * @var string
      */
-     protected $redirectTo = '/signin/signin/foo';
+     protected $redirectTo = 'admin/events/new';
 
 
 
