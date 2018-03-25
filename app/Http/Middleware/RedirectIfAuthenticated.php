@@ -22,6 +22,7 @@ class RedirectIfAuthenticated
 //            return redirect('/signin/login');
 //        }
 
+        return redirect()->route('events');
 
         if ( env('APP_ENV') != 'local' ) {
             if (Auth::guard($guard)->check()) {
