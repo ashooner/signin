@@ -21,6 +21,13 @@ if ( env('APP_ENV') != 'local' ) {
 
 
 Auth::routes();
+
+if ( env('APP_ENV') != 'local' ) {
+    Route::get('/signin/', 'HomeController@index')->name('home');
+} else {
+    Route::get('/', 'HomeController@index')->name('home');
+}
+
 Route::get('/', 'HomeController@index')->name('home');
 
 //Route::get('/', 'EventController@index');
