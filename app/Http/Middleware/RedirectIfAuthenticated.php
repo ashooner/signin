@@ -24,7 +24,8 @@ class RedirectIfAuthenticated
 
         if ( env('APP_ENV') != 'local' ) {
             if (Auth::guard($guard)->check()) {
-                return redirect()->route('events');
+                return redirect()->intended('/events');
+//                return redirect()->route('events');
             }
 
         } else {
