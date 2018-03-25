@@ -24,8 +24,10 @@ class RedirectIfAuthenticated
 
 
         if ( env('APP_ENV') != 'local' ) {
-            if (!Auth::guard($guard)->check() && (URL::current() != '/signin/login')) {
-                return redirect('/signin/login');
+            if (!Auth::guard($guard)->check() && (URL::current() != '/login')) {
+                return redirect('/login');
+            } else {
+                return redirect('/signin/');
             }
 
         } else {
