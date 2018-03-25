@@ -25,15 +25,8 @@ class LoginController extends Controller
      *
      * @var string
      */
-     //protected $redirectTo = '/signin';
+     protected $redirectTo = '/signin/signin/foo';
 
-    protected function redirectTo() {
-        return '/signin/events/';
-    }
-
-    protected function redirectPath() {
-        return '/signin/events/';
-    }
 
 
     /**
