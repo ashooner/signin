@@ -30,7 +30,7 @@
     <div class="col-md-6 col-md-offset-3">
 
         <p class = "tpbutton btn-toolbar text-center">
-            <a href="{{url('/admin/events/'. $event->id .'/download')}}" class="btn btn-success" role="button">Download Attendee List</a>
+            <a href="{{url('/admin/event/'. $event->id .'/download')}}" class="btn btn-success" role="button">Download Attendee List</a>
             {{--<a href="{{url('/events/'. $event->id .'/signin')}}" class="btn btn-warning" role="button">Add Attendee</a>--}}
         </p>
 

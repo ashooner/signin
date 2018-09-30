@@ -12,7 +12,7 @@
 
 
             <form>
-                <a href="{{url('/events/'. $event->id .'/signin')}}" class="btn btn-primary btn-block" role="button">Sign in</a>
+                <a href="{{url('/event/'. $event->id .'/signin')}}" class="btn btn-primary btn-block" role="button">Sign in</a>
             </form>
 
             <br>

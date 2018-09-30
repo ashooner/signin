@@ -5,12 +5,16 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Attendee;
+use App\Event;
 
 class SigninController extends Controller
 {
     public function create($eventId)
     {
-        return view('signin', ['eventId'=>$eventId] );
+        $event = Event::find($eventId);
+
+//        dd($event);
+        return view('signin', ['event'=>$event]);
     }
 
     public function store(Request $request)
@@ -23,13 +27,14 @@ class SigninController extends Controller
         $attendee->role = $request->role;
         $attendee->county = $request->county;
         $attendee->email = $request->email;
+        $attendee->linkblue = $request->linkblue;
         //requires input to the email to be an email, currently discards the signin if it is not
         //$attendee->email = $request->validate([
         //   'email' => 'email',
         //]);
         $attendee->save();
 
-        return redirect('/events/'. $eventId );
+        return redirect('/event/'. $eventId );
 
 //        $event($attendee)->save($attendee);
     }

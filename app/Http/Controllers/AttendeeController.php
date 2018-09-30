@@ -20,9 +20,11 @@ class AttendeeController extends Controller
             ->select(
                 'events.name',
                 'attendees.name',
+                'attendees.linkblue',
                 'attendees.role',
                 'attendees.county',
-                'attendees.email')
+                'attendees.email'
+            )
             ->get();
 
         )
@@ -43,7 +45,7 @@ class AttendeeController extends Controller
 
         // Define the Excel spreadsheet headers
 
-        $attendeesArray[] = ['event_name', 'attendee_name', 'role', 'county', 'email'];
+        $attendeesArray[] = ['event_name', 'attendee_name','attendee_linkblue', 'role', 'county', 'email'];
 
 //        $paymentsArray[] = ['id', 'customer','email','total','created_at'];
 
@@ -64,7 +66,7 @@ class AttendeeController extends Controller
 
         Excel::create('attendees', function($excel) use (??) {
             $excel->setTitle('Attendees');
-            $excel->setCreator('Laravel')->setCompany('UKU Food Connection');
+            $excel->setCreator('Food Connection Signin App')->setCompany('UK Food Connection');
             $excel->setDescription('event attendance file');
 
             $excel->sheet('sheet1', function($sheet) use ($attendeesArray) {

@@ -5,17 +5,39 @@ namespace App\Http\Controllers;
 use DB;
 use App\Event;
 use Illuminate\Http\Request;
+use Carbon\Carbon;
 
 class EventAdminController extends Controller
 {
 
-    public function index()
+    public function redirect(){
+        $lastMonth = self::getMonthRange()[1];
+        return redirect()->route('admin.events',['month'=>$lastMonth]);
+    }
+
+    public function index($month)
     {
-        /*$events = Event::all();*/
-        $events = Event::paginate(15);
-        // added to fix the 404 error in the events list
-        $events->withPath('events');
-        return view('admin.events.index', compact('events') );
+
+        $date = Carbon::parse($month);
+        $monthName = $date->format('F');
+        $year = $date->format('Y');
+        $firstDate = $date->firstOfMonth()->format("Y-m-d");
+        $lastDate = $date->lastOfMonth()->format("Y-m-d");
+
+        $events = Event::whereBetween('date', [$firstDate, $lastDate])->withCount('attendees')->get();
+
+        return view(
+            'admin.events.index',
+            [
+                'monthName'=>$monthName,
+                'year'=>$year,
+                'month'=>$month,
+                'nextMonth'=> $this->getAdjacentDate($month, false),
+                'previousMonth'=>$this->getAdjacentDate($month),
+                'events'=>$events
+            ]
+
+            );
     }
     public function show(Event $event)
     {
@@ -43,8 +65,35 @@ class EventAdminController extends Controller
     public function download(Event $event){
         $attendees = $event->attendees;
         $csvExporter = new \Laracsv\Export();
-        $csvExporter->build($attendees, ['name', 'role', 'county', 'email'])->download($event->date.'.csv');
+        $csvExporter->build($attendees, ['name', 'linkblue', 'role', 'county', 'email'])->download($event->date.'.csv');
 
 
     }
+
+    protected function getMonthRange(){
+        $first_event_month = new Carbon(Event::orderBy('date', 'asc')->first()->date);
+        $last_event_month = new Carbon(Event::orderBy('date', 'dsc')->first()->date);
+        return([$first_event_month->format("Y-m"), $last_event_month->format("Y-m")]);
+    }
+
+    protected function getAdjacentDate($month, $previous = true){
+        $query = DB::table('events');
+        $date = Carbon::parse($month);
+
+        if ($previous){;
+            $query->whereDate('date', '<', $date->firstOfMonth()->format("Y-m-d"))->latest('date');
+        } else {
+            $query->whereDate('date', '>', $date->lastOfMonth()->format("Y-m-d"))->oldest('date');
+        }
+
+        $adjacentEvent = $query->take(1)->get();
+
+        if (!$adjacentEvent->isEmpty()) {
+            return Carbon::parse($adjacentEvent->first()->date);
+        }
+
+        return false;
+    }
+
+
 }
