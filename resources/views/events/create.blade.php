@@ -10,7 +10,7 @@
 
         <div class="col-md-6 col-md-offset-3">
 
-            <form method="POST" action="{{url('/events/new/')}}">
+            <form method="POST" action="{{url('/event/new/')}}">
                 {!! csrf_field() !!}
                     <div class="form-group">
                         <label for="name">Name</label>

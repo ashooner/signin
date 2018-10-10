@@ -82,7 +82,7 @@ class AttendeeAdminController extends Controller
     {
         $event = $attendee->event();
         $attendee->destroy();
-        return redirect('/admin/events/'.$event->id );
+        return redirect('/admin/event/'.$event->id );
 
     }
 }
