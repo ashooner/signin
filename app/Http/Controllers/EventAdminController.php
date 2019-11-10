@@ -46,7 +46,7 @@ class EventAdminController extends Controller
 
     public function create()
     {
-        return view('admin.events.create', compact('event'));
+        return view('admin.events.create');
     }
 
     public function store(Request $request)
@@ -72,7 +72,7 @@ class EventAdminController extends Controller
 
     protected function getMonthRange(){
         $first_event_month = new Carbon(Event::orderBy('date', 'asc')->first()->date);
-        $last_event_month = new Carbon(Event::orderBy('date', 'dsc')->first()->date);
+        $last_event_month = new Carbon(Event::orderBy('date', 'desc')->first()->date);
         return([$first_event_month->format("Y-m"), $last_event_month->format("Y-m")]);
     }
 
