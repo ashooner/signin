@@ -40,11 +40,6 @@
 
                 <div id="uk-only" style="display:none">
 
-                    <div class="form-group">
-                        <label for="name">Linkblue ID</label>
-                        <input type="text" class="form-control" id="linkblue" name="linkblue" placeholder="Linkblue" >
-                    </div>
-
                     <div class="form-group" id="extension-only" style="display:none">
                         <label for="role">Cooperative Extention county or district:</label>
                         <select class="form-control" id="county" name="county">
